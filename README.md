@@ -11,7 +11,7 @@ las herramientas y subirla a nuestro grupo oficial en [Telegram]
 ## :book: Installation (!Beta Estable)
 ```
 apt-get update -y;
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADMPLUS-MANAGER-PRO/main/Plus;
+wget https://raw.githubusercontent.com/c0ntempt/ADMPLUS-MANAGER-COMMUNITY/main/Plus;
 chmod 777 Plus* && ./Plus*
 ```
 Las dependencias faltantes se instalarÃ¡n automaticamente

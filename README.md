@@ -14,7 +14,7 @@ apt-get update -y;
 wget https://raw.githubusercontent.com/c0ntempt/ADMPLUS-MANAGER-COMMUNITY/main/Plus;
 chmod 777 Plus* && ./Plus*
 ```
-Las dependencias faltantes se instalarÃ¡n automaticamente
+Las dependencias faltantes se instalaran automaticamente
 
 ```
 ADMPLUS-MANAGER COMMUNITY
